@@ -9,6 +9,7 @@ tags:
 > "ASU is a comprehensive public research university, measured not by whom it excludes, but by whom it includes and how they succeed; advancing research and discovery of public value; and assuming fundamental responsibility for the economic, social, cultural and overall health of the communities it serves." (ASU's Charter)
 
 The team came about this team charter ....(add in your words datails on why this is your team's charter)
+<font size="8">BIG WAKA WAKA<br>
 
 ## Product Mission Statement
 
