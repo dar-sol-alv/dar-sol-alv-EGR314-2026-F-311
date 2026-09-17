@@ -5,13 +5,13 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Project Name<br>
-<font size="5">Team ###<br>
+<font size="8">Project Fog of War<br>
+<font size="5">Team 311<br>
 **Submission: month, DD, YYYY**<br>
-Spring - 202x<br>
+Spring - 2026<br>
 <font size="4">Arizona State University<br>
 **EGR 314**<br>
-Professor Name<br>
+Dajiang Suo<br>
   
 
 </center>
@@ -26,7 +26,7 @@ Professor Name<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR314DataSheetTemplate/) |
+| Dario Solis Alvarez    | [dar-sol-alv.GitHub](https://github.com/dar-sol-alv) |
 | Name #2                | link |
 | Name #3                | link |
 | Name #4                | link |
